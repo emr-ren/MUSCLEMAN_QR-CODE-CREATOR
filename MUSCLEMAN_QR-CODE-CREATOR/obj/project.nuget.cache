@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8cWFM6ZSio=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emree\\Desktop\\QR Kod Oluşturucu\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emree\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\emree\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\emree\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

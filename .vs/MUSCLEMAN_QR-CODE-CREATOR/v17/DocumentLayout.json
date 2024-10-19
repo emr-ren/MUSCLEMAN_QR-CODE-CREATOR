@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emree\\Desktop\\QR Kod Olu\u015Fturucu\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67F6212-DD75-464C-9EA1-02B9EEF18EFA}|MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR.csproj|c:\\users\\emree\\desktop\\qr kod olu\u015Fturucu\\muscleman_qr-code-creator\\muscleman_qr-code-creator\\muscleman_qr-code-creator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C67F6212-DD75-464C-9EA1-02B9EEF18EFA}|MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR.csproj|solutionrelative:muscleman_qr-code-creator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\emree\\Desktop\\QR Kod Olu\u015Fturucu\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\Form1.cs",
+              "RelativeDocumentMoniker": "MUSCLEMAN_QR-CODE-CREATOR\\Form1.cs",
+              "ToolTip": "C:\\Users\\emree\\Desktop\\QR Kod Olu\u015Fturucu\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\MUSCLEMAN_QR-CODE-CREATOR\\Form1.cs [Design]",
+              "RelativeToolTip": "MUSCLEMAN_QR-CODE-CREATOR\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:22:30.226Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\emree\Desktop\QR Kod Oluşturucu\MUSCLEMAN_QR-CODE-CREATOR\MUSCLEMAN_QR-CODE-CREATOR\bin\Release\net8.0-windows\publish\MUSCLEMAN_QR-CODE-CREATOR.exe
+C:\Users\emree\Desktop\QR Kod Oluşturucu\MUSCLEMAN_QR-CODE-CREATOR\MUSCLEMAN_QR-CODE-CREATOR\bin\Release\net8.0-windows\publish\MUSCLEMAN_QR-CODE-CREATOR.dll
+C:\Users\emree\Desktop\QR Kod Oluşturucu\MUSCLEMAN_QR-CODE-CREATOR\MUSCLEMAN_QR-CODE-CREATOR\bin\Release\net8.0-windows\publish\MUSCLEMAN_QR-CODE-CREATOR.deps.json
+C:\Users\emree\Desktop\QR Kod Oluşturucu\MUSCLEMAN_QR-CODE-CREATOR\MUSCLEMAN_QR-CODE-CREATOR\bin\Release\net8.0-windows\publish\MUSCLEMAN_QR-CODE-CREATOR.runtimeconfig.json
+C:\Users\emree\Desktop\QR Kod Oluşturucu\MUSCLEMAN_QR-CODE-CREATOR\MUSCLEMAN_QR-CODE-CREATOR\bin\Release\net8.0-windows\publish\MUSCLEMAN_QR-CODE-CREATOR.pdb
+C:\Users\emree\Desktop\QR Kod Oluşturucu\MUSCLEMAN_QR-CODE-CREATOR\MUSCLEMAN_QR-CODE-CREATOR\bin\Release\net8.0-windows\publish\QRCoder.dll
